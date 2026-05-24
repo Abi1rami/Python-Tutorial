@@ -1,0 +1,58 @@
+{
+  "project": "Bedtime Story — Mom & Twin Daughters",
+  "model": "Veo 3",
+  "duration": "8 seconds",
+  "aspect_ratio": "16:9",
+  "resolution": "1080p",
+  "style": "Cinematic painterly",
+  "audio": "on",
+
+  "scene": {
+    "setting": "Warm cozy South Indian bedroom at night",
+    "lighting": "Soft yellow bedside lamp glow",
+    "background": "Wooden cot, simple cotton bedsheet, small idol on shelf, curtain moving softly, full moon visible through window",
+
+    "characters": {
+      "mother": {
+        "age": "Early 30s",
+        "skin": "Warm brown South Indian",
+        "eyes": "Large dark almond eyes",
+        "hair": "Long black hair loosely open",
+        "outfit": "Simple soft green casual cotton nighty",
+        "position": "Sitting against big pillow on bed",
+        "action": "Holding small storybook, reading aloud softly, lips moving gently, face warm and glowing"
+      },
+      "twin_daughter_1": {
+        "age": "4 years old",
+        "skin": "Warm brown South Indian",
+        "face": "Chubby round cheeks",
+        "hair": "Black hair loosely open",
+        "outfit": "Soft pink pastel cotton frock",
+        "position": "Snuggled on mother's left side under cotton blanket",
+        "action": "Looking up at mother with big sleepy half open eyes"
+      },
+      "twin_daughter_2": {
+        "age": "4 years old",
+        "skin": "Warm brown South Indian",
+        "face": "Chubby round cheeks",
+        "hair": "Black hair loosely open",
+        "outfit": "Soft yellow pastel cotton frock",
+        "position": "Snuggled on mother's right side under cotton blanket",
+        "action": "Already drifting to sleep, cheek pressed on mother's arm, tiny hand clutching mother's sleeve"
+      }
+    },
+
+    "motion": "Curtain sways softly from breeze. Lamp light flickers gently. Daughter's eyes slowly closing. Still and peaceful.",
+
+    "audio": {
+      "ambient": "Soft indoor night sounds, distant crickets through window",
+      "main": "Mother's warm low voice reading a story softly",
+      "detail": "Light cotton blanket rustle, page turning softly"
+    },
+
+    "mood": "Warm, tender, deeply peaceful, loving",
+    "style_notes": "Painterly cinematic, soft brush texture, warm amber and yellow tones, no harsh light",
+
+    "negative_prompt": "No cartoon, no anime, no western bedroom, no harsh lighting, no text on screen, no extra characters, no modern furniture, no frightening elements"
+  }
+}
